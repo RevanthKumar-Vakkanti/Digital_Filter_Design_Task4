@@ -81,4 +81,12 @@ When
    
    4. Biomedical Signal Processing – ECG filtering, EEG signal enhancement.
 
-     
+## OUTPUT WAVEFORM:
+
+
+## OUTPUT WAVEFORM INCULDING SHIFT REGISTERS:
+
+
+## SCHEMATIC DIAGRAM:
+
+
