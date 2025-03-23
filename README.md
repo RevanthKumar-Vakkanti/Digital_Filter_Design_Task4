@@ -83,9 +83,11 @@ When
 
 ## OUTPUT WAVEFORM:
 
+![Image](https://github.com/user-attachments/assets/6ae67035-eaed-4f4c-8566-60a32cdcb096)
 
 ## OUTPUT WAVEFORM INCULDING SHIFT REGISTERS:
 
+![Image](https://github.com/user-attachments/assets/78cd07a9-fb4b-4efd-97ce-07cb6fda3ecc)
 
 ## SCHEMATIC DIAGRAM:
 
