@@ -91,4 +91,5 @@ When
 
 ## SCHEMATIC DIAGRAM:
 
+![Image](https://github.com/user-attachments/assets/5eff5538-639d-411d-af10-b9dcbf43012f)
 
